@@ -7,3 +7,8 @@ Implementation of the following backend trees:
   - [ ] Ongoing
 - [ ] B+ Tree
   - [ ] Not Started
+- [ ] KD Tree
+  - [ ] Nearest Neighbour Implementation
+- [ ] HashTables
+  - [ ] Linear Probing
+  - [ ] Chaining
